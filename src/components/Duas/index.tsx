@@ -136,7 +136,7 @@ const Duas = () => {
                                             </div>
                                             <div>
                                                 <Image
-                                                    src={"/images/bookmarkIcon.svg"}
+                                                    src={"/images/bookmarkicon.svg"}
                                                     alt="Bookmark"
                                                     width={22}
                                                     height={22}
