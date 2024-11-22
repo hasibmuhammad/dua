@@ -11,6 +11,7 @@ export default {
       colors: {
         bgPrimary: "#F7F8FA",
         bgActive: "#E8F0F5",
+        bgSearch: "#F3F4F6",
         bgSvg: "#CFE0E5",
         primary: "#1FA45B",
         secondary: "#393939",

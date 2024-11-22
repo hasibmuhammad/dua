@@ -20,7 +20,7 @@ export default function RootLayout({
       <body
         className={`${inter.className} antialiased bg-bgPrimary`}
       >
-        <main className="max-w-full mx-auto px-10 my-10">
+        <main className="max-w-full mx-auto px-4 lg:px-10 lg:my-10">
           {children}
         </main>
       </body>
