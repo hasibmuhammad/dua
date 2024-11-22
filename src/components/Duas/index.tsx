@@ -20,7 +20,7 @@ const Duas = () => {
 
                 <div className="mb-4 bg-white rounded-[10px] h-[55px] flex items-center px-5 border-[.5px] border-borderPrimary">
                     <p>
-                        <span className="text-primary font-medium">Section: </span>
+                        <span className="text-pri`mary font-medium">Section: </span>
                         <span className="text-secondary">The servant is dependent on his Lord</span>
                     </p>
                 </div>
@@ -119,7 +119,7 @@ const Duas = () => {
             {/* Drawer */}
             {
                 isOpen &&
-                <div className="absolute top-2 md:hidden w-full h-full">
+                <div className="absolute top-2 lg:hidden w-full h-full">
                     <CategoriesDrawer setIsOpen={setIsOpen} />
                 </div>
             }
